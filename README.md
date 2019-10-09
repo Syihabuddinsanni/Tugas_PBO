@@ -91,4 +91,4 @@ dengan saling memanggil metode dari satu object ke object lainnya, disebut messa
 - [ ]  Dikasi Stars Viewers :v
 - [ ]  Di Follow viewers :V
 
-Follow Ig saia :v [Instagram](https://www.instagram.com/_sh3hub/).
+Follow Ig saia :v [Instagram](https://www.instagram.com/_sh3hub/). <== Click tulisan biru di samping 
