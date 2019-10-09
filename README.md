@@ -19,15 +19,15 @@
 ![Alt text](https://github.com/Syihabuddinsanni/PBO/blob/master/Latihan5.PNG)
 
 
-# -- Biodata --
+# -- ʙɪᴏᴅᴀᴛᴀ  --
 ![Alt text](https://github.com/Syihabuddinsanni/PBO/blob/master/Biodata.PNG)
 
-# -- Explorasi --
+# -- ᴇxᴘʟᴏʀᴀꜱɪ --
 ![Alt text](https://github.com/Syihabuddinsanni/PBO/blob/master/Explorasi.PNG)
 
-# -- Luas Bola & Balok --
+# -- ʟᴜᴀꜱ ʙᴏʟᴀ & ʙᴀʟᴏᴋ --
 ![Alt text](https://github.com/Syihabuddinsanni/PBO/blob/master/Bola.PNG)
 ![Alt text](https://github.com/Syihabuddinsanni/PBO/blob/master/Balok.PNG)
 
-# -- Tugas Kelompok V1 --
+# -- ᴛᴜɢᴀꜱ ᴋᴇʟᴏᴍᴘᴏᴋ ᴠ1 --
 ![Alt text](https://github.com/Syihabuddinsanni/PBO/blob/master/Kantin1.PNG)
