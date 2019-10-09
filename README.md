@@ -88,7 +88,7 @@ dengan saling memanggil metode dari satu object ke object lainnya, disebut messa
 - [x] Tugas Praktikum
 - [x] Tugas Kelompok
 - [x] Kesimpulan
-- []  Dapet Star
-- []  Di Follow
+- [ ]  Dikasi Stars Viewers :v
+- [ ]  Di Follow viewers :V
 
-Follow Ig  [Instagram](https://www.instagram.com/_sh3hub/).
+Follow Ig saia :v [Instagram](https://www.instagram.com/_sh3hub/).
