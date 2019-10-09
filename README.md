@@ -41,10 +41,10 @@
 ![Alt text](https://github.com/Syihabuddinsanni/PBO/blob/master/Kantin1.PNG)
 
 #### Step 2
-![Alt text](https://github.com/Syihabuddinsanni/PBO/blob/master/Kantin2.PNG)
+![Alt text](https://github.com/Syihabuddinsanni/PBO/blob/master/kantin2.PNG)
 
 #### Step 3
-![Alt text](https://github.com/Syihabuddinsanni/PBO/blob/master/Kantin3.PNG)
+![Alt text](https://github.com/Syihabuddinsanni/PBO/blob/master/kantin3.PNG)
 
 #### Step 4
-![Alt text](https://github.com/Syihabuddinsanni/PBO/blob/master/Kantin4.PNG)
+![Alt text](https://github.com/Syihabuddinsanni/PBO/blob/master/kantin4.PNG)
