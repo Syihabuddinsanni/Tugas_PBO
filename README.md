@@ -87,4 +87,4 @@ dengan saling memanggil metode dari satu object ke object lainnya, disebut messa
 - []  Dapet Star
 - []  Di Follow
 
-Follow Ig  [Instagram](https://www.instagram.com/bolt.agar/).
+Follow Ig  [Instagram](https://www.instagram.com/_sh3hub/).
