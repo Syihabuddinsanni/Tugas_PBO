@@ -21,7 +21,7 @@
 > Class Diatas Menggunakan Motor Sebagai Objectnya
 # Method yang digunakan ?
 > Program Diatas Menggunakan Method VOID 
->  _Type Method Ada 2 :_
+>  --  Type Method Ada 2 :
 > - Void -->  _Tidak ada return Value/nilai_
 > - _Sesuai Variabel --> ada return Variabel_
 
