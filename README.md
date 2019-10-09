@@ -65,3 +65,8 @@ Menu Makanan User Tinggal menginputkan Angka_ "1" _ Dan Jika ingin mencari menu 
 # What should I do after this ?
 _Nah tidak usah binggung Setelah User Mengetahui Menu Makanan / minuman dari kantin 1 - 6 User langsung aja samperin 
 dan pesen menu makanan di kantin sesuai selera_
+
+# 🄺 🄴 🅂 🄸 🄼 🄿 🅄 🄻 🄰 🄽
+## Class
+_Class Dapat diibaratkan seperti wadah yang berisi dari fungsi suatu_ * objek * (Benda) _Yang mendeskripsikan
+Data Dan fungsi yang dimiliki Objek Tersebut_
