@@ -33,7 +33,9 @@
 ![Alt text](https://github.com/Syihabuddinsanni/PBO/blob/master/Explorasi.PNG)
 
 # -- ʟᴜᴀꜱ ʙᴏʟᴀ & ʙᴀʟᴏᴋ --
+### Bola
 ![Alt text](https://github.com/Syihabuddinsanni/PBO/blob/master/Bola.PNG)
+### Balok
 ![Alt text](https://github.com/Syihabuddinsanni/PBO/blob/master/Balok.PNG)
 
 # -- ᴛᴜɢᴀꜱ ᴋᴇʟᴏᴍᴘᴏᴋ ᴠ1 --
