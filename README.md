@@ -68,13 +68,13 @@ dan pesen menu makanan di kantin sesuai selera_
 
 # 🄺 🄴 🅂 🄸 🄼 🄿 🅄 🄻 🄰 🄽
 ## Class :
-> _Class Dapat diibaratkan seperti wadah yang berisi dari fungsi suatu_ * objek * (Benda) _Yang mendeskripsikan
-Data Dan fungsi yang dimiliki Objek Tersebut_
+> Class Dapat diibaratkan seperti wadah yang berisi dari fungsi suatu_ * objek * (Benda) _Yang mendeskripsikan
+Data Dan fungsi yang dimiliki Objek Tersebut
 
 ## Method :
-> _Method adalah bagian-bagian kode yang dapat dipanggil oleh program utama atau dari
-method lainnya untuk menjalankan fungsi yang spesifik_
+> Method adalah bagian-bagian kode yang dapat dipanggil oleh program utama atau dari
+method lainnya untuk menjalankan fungsi yang spesifik
 
 ## Object
-> _Object adalah sekumpulan software yang terdiri dari variabel dan method method terkait. Object saling berinteraksi
+> Object adalah sekumpulan software yang terdiri dari variabel dan method method terkait. Object saling berinteraksi
 dengan saling memanggil metode dari satu object ke object lainnya, disebut message.
