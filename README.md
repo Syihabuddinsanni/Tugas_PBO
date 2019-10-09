@@ -78,3 +78,10 @@ method lainnya untuk menjalankan fungsi yang spesifik
 ## Object
 > Object adalah sekumpulan software yang terdiri dari variabel dan method method terkait. Object saling berinteraksi
 dengan saling memanggil metode dari satu object ke object lainnya, disebut message.
+
+- [x] Latihan
+- [x] Tugas Praktikum
+- [x] Tugas Kelompok
+- [x] Kesimpulan
+- []  Star
+- []  Follow
