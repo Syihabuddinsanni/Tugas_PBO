@@ -39,18 +39,27 @@
 # -- ᴛᴜɢᴀꜱ ᴋᴇʟᴏᴍᴘᴏᴋ ᴠ1 --
 #### Step 1
 ![Alt text](https://github.com/Syihabuddinsanni/PBO/blob/master/Kantin1.PNG)
-#
-_Di Step Pertama disini User Akan diminta untuk menginputkan_ Nicknamekantin/Nama Pengguna _Selama
+# How i can get NicknameKantin ?
+_Di Step Pertama disini User Akan diminta untuk menginputkan_ Nicknamekantin/Nama Pengguna(BEBAS)  _Selama
 Stalking di tools Menu Kantin ini_
 
 #### Step 2
 ![Alt text](https://github.com/Syihabuddinsanni/PBO/blob/master/kantin2.PNG)
-#
+# How To Input my choice ?
 _Di Step Kedua User Akan Di sajikan dengan berbagai macam pilihan menu Dari kantin 1 hingga kantin ke 6
-Disini User akan kembali menginputkan angka untuk stalking menu kantin_
+Disini User akan kembali menginputkan angka untuk stalking menu kantin tentunya angka yang diinputkan user 
+adalah angka yang sudah tertera di dalam pilihan menu. Jika Angka yang diinputkan user tidak ada di dalam Menu
+Maka Program akan Error_
 
 #### Step 3
 ![Alt text](https://github.com/Syihabuddinsanni/PBO/blob/master/kantin3.PNG)
+# what should I choose ?
+_Di sini User akan diminta untuk menginputkan angka Sesuai Dengan angka yang sudah tertera di pilihan menu
+Nah disini User tidak perlu bingung untuk memilih mana yang harus dipilih terlebih dahulu. Jika User Ingin Mencari
+Menu Makanan User Tinggal menginputkan Angka_ "1" _ Dan Jika ingin mencari menu Minuman Maka User Harus menginputkan Angka_ "2"
 
 #### Step 4
 ![Alt text](https://github.com/Syihabuddinsanni/PBO/blob/master/kantin4.PNG)
+# What should I do after this ?
+_Nah tidak usah binggung Setelah User Mengetahui Menu Makanan / minuman dari kantin 1 - 6 User langsung aja samperin 
+dan pesen menu makanan di kantin sesuai selera_
