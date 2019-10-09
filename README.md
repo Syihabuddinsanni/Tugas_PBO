@@ -79,9 +79,12 @@ method lainnya untuk menjalankan fungsi yang spesifik
 > Object adalah sekumpulan software yang terdiri dari variabel dan method method terkait. Object saling berinteraksi
 dengan saling memanggil metode dari satu object ke object lainnya, disebut message.
 
+### READ THIS !
 - [x] Latihan
 - [x] Tugas Praktikum
 - [x] Tugas Kelompok
 - [x] Kesimpulan
 - []  Dapet Star
 - []  Di Follow
+
+Follow Ig  [GitHub Pages](https://www.instagram.com/bolt.agar/).
