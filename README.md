@@ -1,7 +1,7 @@
 # 🅿🅱🅾
 
 # -- 𝕝𝕒𝕥𝕚𝕙𝕒𝕟 𝟙 --
-![Alt text](https://github.com/Syihabuddinsanni/PBO/commit/1298ebcbb153fec2cfd152b761e9f1f180944c85)
+![Alt text](https://github.com/Syihabuddinsanni/PBO/blob/master/Latihan1.PNG)
 
 # -- 𝕝𝕒𝕥𝕚𝕙𝕒𝕟  𝟚 --
 ![Alt text](https://github.com/Syihabuddinsanni/PBO/blob/master/Latihan2.PNG)
