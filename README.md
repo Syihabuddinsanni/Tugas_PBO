@@ -39,11 +39,13 @@
 # -- ᴛᴜɢᴀꜱ ᴋᴇʟᴏᴍᴘᴏᴋ ᴠ1 --
 #### Step 1
 ![Alt text](https://github.com/Syihabuddinsanni/PBO/blob/master/Kantin1.PNG)
+#
 _Di Step Pertama disini User Akan diminta untuk menginputkan_ Nicknamekantin/Nama Pengguna _Selama
 Stalking di tools Menu Kantin ini_
 
 #### Step 2
 ![Alt text](https://github.com/Syihabuddinsanni/PBO/blob/master/kantin2.PNG)
+#
 _Di Step Kedua User Akan Di sajikan dengan berbagai macam pilihan menu Dari kantin 1 hingga kantin ke 6
 Disini User akan kembali menginputkan angka untuk stalking menu kantin_
 
