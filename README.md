@@ -83,5 +83,5 @@ dengan saling memanggil metode dari satu object ke object lainnya, disebut messa
 - [x] Tugas Praktikum
 - [x] Tugas Kelompok
 - [x] Kesimpulan
-- []  Star
-- []  Follow
+- []  \Star
+- []  \Follow
