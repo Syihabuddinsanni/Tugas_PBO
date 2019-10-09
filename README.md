@@ -31,6 +31,10 @@
 
 # -- ᴇxᴘʟᴏʀᴀꜱɪ --
 ![Alt text](https://github.com/Syihabuddinsanni/PBO/blob/master/Explorasi.PNG)
+# Penjelasan
+> Disini saya menggunakan Tipe Data Double karena data yang berada di dalam variabel
+A dan Variabel B adalah bilangan Desimal selain itu fungsi dari double adalah agar output dari programnya
+dapat mengeluarkan bilangan desimal
 
 # -- ʟᴜᴀꜱ ʙᴏʟᴀ & ʙᴀʟᴏᴋ --
 ### Bola
