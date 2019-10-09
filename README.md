@@ -68,7 +68,7 @@ dan pesen menu makanan di kantin sesuai selera_
 
 # 🄺 🄴 🅂 🄸 🄼 🄿 🅄 🄻 🄰 🄽
 ## Class :
-> Class Dapat diibaratkan seperti wadah yang berisi dari fungsi suatu *objek* (Benda) _Yang mendeskripsikan
+> Class Dapat diibaratkan seperti wadah yang berisi dari fungsi suatu **OBJEK** (_Benda_) Yang mendeskripsikan
 Data Dan fungsi yang dimiliki Objek Tersebut
 
 ## Method :
