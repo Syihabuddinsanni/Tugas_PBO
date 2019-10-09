@@ -17,6 +17,12 @@
 
 # -- 𝕝𝕒𝕥𝕚𝕙𝕒𝕟 5 --
 ![Alt text](https://github.com/Syihabuddinsanni/PBO/blob/master/Latihan5.PNG)
+#Object yang digunakan pada class diatas ?
+> Class Diatas Menggunakan Motor Sebagai Objectnya
+# Method yang digunakan ?
+> Program Diatas Menggunakan Method VOID 
+> _Type Method Ada 2 - Void --> Tidak ada return Value/nilai_
+> -Sesuai Variabel --> ada return Variabel
 
 
 # -- ʙɪᴏᴅᴀᴛᴀ  --
