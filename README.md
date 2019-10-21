@@ -3,6 +3,7 @@
 # -- 𝕝𝕒𝕥𝕚𝕙𝕒𝕟 𝟙 --
 ![Alt text](https://github.com/Syihabuddinsanni/PBO/blob/master/Latihan1.PNG)
 
+
 # -- 𝕝𝕒𝕥𝕚𝕙𝕒𝕟  𝟚 --
 ![Alt text](https://github.com/Syihabuddinsanni/PBO/blob/master/Latihan2.PNG)
 
@@ -93,4 +94,4 @@ dengan saling memanggil metode dari satu object ke object lainnya, disebut messa
 
 Follow Ig saia :v [Instagram](https://www.instagram.com/_sh3hub/). <== Click tulisan biru di samping 
 
-  abssafsahfashfoashf
+
